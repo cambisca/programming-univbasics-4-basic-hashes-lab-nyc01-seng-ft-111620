@@ -5,6 +5,7 @@ end
 def my_hash
  hash = {
    name: "Cam"
+   borough: "Brooklyn"
  }
 end
 
